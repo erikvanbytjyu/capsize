@@ -1,1 +1,1 @@
-ultralytics 8.1.5 add OBB Tracking support (#7731)
+Add YOLOv8-OBB https://youtu.be/Z7Z9pHF8wJc (#7780)
