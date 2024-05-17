@@ -1,1 +1,1 @@
-Biometric Protection - Require TouchID / FaceID verification for switching browsing modes, locking tabs, unlocking tabs or accessing locked tabs
+Add yolo_bbox2segment docs reference (#7751)
